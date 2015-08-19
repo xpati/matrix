@@ -1,0 +1,30 @@
+{
+  "nodes":[
+    {"name":"Sara","group":1},
+    {"name":"Maria Jose","group":1},
+    {"name":"Vitor Hugo","group":2},
+    {"name":"Vitor Wilson","group":2},
+    {"name":"Ana","group":1},
+    {"name":"Natercia","group":2},
+    {"name":"Prof Chris","group":3},
+    {"name":"Prof Evan","group":3},
+    {"name":"Prof Morgado","group":3},
+    {"name":"Prof Sergi","group":3},
+    {"name":"Teresa","group":1},
+    {"name":"Regina","group":1},
+    {"name":"Zelia","group":1},
+    {"name":"Prof Carolina","group":3}
+  ],
+  "links":[
+    {"source":0,"target":6,"value":1},
+    {"source":1,"target":6,"value":1},
+    {"source":2,"target":6,"value":1},
+    {"source":3,"target":6,"value":1},
+    {"source":1,"target":7,"value":1},
+    {"source":4,"target":7,"value":1},
+    {"source":5,"target":8,"value":1},
+    {"source":10,"target":9,"value":1},
+    {"source":11,"target":13,"value":1},
+    {"source":12,"target":7,"value":1}
+  ]
+}
